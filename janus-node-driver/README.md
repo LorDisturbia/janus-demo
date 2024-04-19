@@ -1,4 +1,4 @@
-# 🎭 Janus
+# 🏎️ Janus Node Driver
 
 This component is a NodeJS server that uses the [Janode](https://github.com/meetecho/janode) NPM library to communicate with [a Janus instance](../janus/).
 
