@@ -9,6 +9,6 @@ The Janode library communicates with the Janus server using the WebSocket interf
 Follow these steps:
 
 - Run the [Janus server](../janus/) first
+- Run `npm install`
 - Run `npm start`
-- Run `npm run`
 - The server is now reachable via WebSocket at `ws://localhost:8090`.
